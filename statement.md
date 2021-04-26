@@ -1,6 +1,8 @@
-# Welcome!
+# Site pour créer énoncés + playground de code pour des étudiants
 
-Ce "projet" a deux pages (configurérées dans un .yaml)
+C'est différent connecté à un dépôit github à nous
+
+Ce "projet" a deux pages (configurées dans un .yaml)
 
 On peut glisser des images aussi :
 ![Graph example](cities.png "")
