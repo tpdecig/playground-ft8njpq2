@@ -2,7 +2,8 @@
 
 Ce "projet" a deux pages (configurérées dans un .yaml)
 
-On peut glisser des images aussi (voir page 2)
+On peut glisser des images aussi :
+![Graph example](cities.png "")
 
 
 Ci-dessous, on voit comment on peut laisser la place à des étudiants pour exécuter du code, 
