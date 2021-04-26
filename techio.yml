@@ -2,3 +2,7 @@ title: Simple Java Template
 plan:
 - title: Java Snippet
   statement: statement.md
+- title: une 2ème page
+  statement: questions_a_cocher.md
+
+
